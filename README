@@ -1,0 +1,4 @@
+Forbid installation of software by:
+
+    * Package name
+    * Developer who touched a package

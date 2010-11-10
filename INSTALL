@@ -1,0 +1,4 @@
+cp no.conf /etc/yum/pluginconf.d
+cp no.py /usr/lib/yum-plugins
+
+Edit no.conf to suit your needs.
